@@ -60,3 +60,7 @@ To get started with my i3 configuration, follow these steps:
    ```bash
    git clone https://github.com/user7210unix/i3-rounded-dotfiles.git
    cd i3-rounded-dotfiles
+
+
+   sudo vim .xinitrc
+   exec i3
