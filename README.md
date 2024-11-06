@@ -1,14 +1,16 @@
 # i3 Dotfiles
 
+## Screenshots
+
+![Screenshot](pictures/i.png)
+
+
 ## Table of Contents
 - [Features](#features)
 - [Installation](#installation)
 - [Dependencies](#Dependencies)
 - [Screenshots](#Screenshots)
 
-## Screenshots
-
-![Screenshot](pictures/i.png)
 
 ## Features
 
