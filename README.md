@@ -33,7 +33,7 @@ For Debian-based distributions, use the following command:
 
 
 
-```sudo apt install neofetch kitty picom i3```
+```sudo apt install neofetch kitty polybar picom i3```
 
 **Gentoo 🧼**
 
@@ -41,7 +41,7 @@ On Gentoo, you can install the required packages using:
 
 
 
-```sudo emerge app-misc/neofetch x11-terminfo/kitty x11-wm/i3 x11-misc/picom```
+```sudo emerge app-misc/neofetch x11-terminfo/kitty x11-wm/i3 x11-misc/picom x11-misc/polybar```
 
 
 
